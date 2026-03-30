@@ -1,12 +1,13 @@
-<h1 align="center">Hey 👋, I'm Mitul Rishi</h1>
+<h1 align="center">Hey 👋, I'm Mitul Rishi
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 <h3 align="center">🚀 AI Engineer in Progress | Future Astrophysicist | Building at the Edge of Intelligence & Space</h3>
 
-## 🐍 
 
 ![snake gif](https://github.com/Black-Cat-23/Black-Cat-23/blob/output/github-contribution-grid-snake.svg)
 ---
 
-## 🌌 About Me
+## 💫 About Me
 
 - 🎓 B.Tech CSE @ IIIT Kota (Graduating 2028)
 - 🤖 Passionate about **AI, Machine Learning & Intelligent Systems**
@@ -85,7 +86,7 @@
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: *(Add your link here)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/mitul-rishi-4791a2328/*
 - 📧 Email: *mitulrishi76@gmail.com*
 
 ---
