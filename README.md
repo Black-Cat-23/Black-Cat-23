@@ -12,9 +12,7 @@
 - 🎓 B.Tech CSE @ IIIT Kota (Graduating 2028)
 - 🤖 Passionate about **AI, Machine Learning & Intelligent Systems**
 - 🌠 Deep interest in **Astrophysics, Space Tech & Planetary Science**
-- 🧠 Currently exploring **AI Agents, Simulation Systems & Scientific ML**
-- 🛰️ Goal: Work on cutting-edge space missions (NASA, SpaceX etc)
-
+  
 ---
 
 ## 🚀 What I'm Building
@@ -88,7 +86,7 @@
 
 - AI + Space = My Core Direction  
 - Long-term: Work on **Interstellar & Planetary Systems**  
-- Build tools that **simulate, predict & discover**
+- Build tools that **Simulate, Predict & Discover**
 
 ---
 
@@ -110,7 +108,7 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/mitul-rishi-4791a2328/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitulrishi76@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitul-rishi-4791a2328/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitulrishi76@gmail.com)
 
 ---
 
@@ -120,7 +118,6 @@
   <img src="https://komarev.com/ghpvc/?username=Black-Cat-23&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
----
 ---
 
 ⭐ **If you like my work, consider starring my repositories!**
