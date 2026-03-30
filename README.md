@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Mitul Rishi
+<h1 align="center">Hey, I'm Mitul Rishi
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <h3 align="center">🚀 AI Engineer in Progress | Future Astrophysicist | Building at the Edge of Intelligence & Space</h3>
@@ -29,14 +29,32 @@
 ## ⚡ Tech Arsenal
 
 ### 👨‍💻 Languages
-`C` `C++` `Python` `Java` `JavaScript`
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### 🌐 Development
-`React.js` `Next.js` `THREE.js` `Express.js` `MongoDB` 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ### 🤖 AI / ML
-`Scikit-learn` `TensorFlow(Learning)` `PyTorch (Learning)`  
-`Pandas` `NumPy` `Matplotlib` `SciPy` `AstroPy`
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow%20(Learning)-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch%20(Learning)-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![AstroPy](https://img.shields.io/badge/AstroPy-000000?style=for-the-badge)
 
 ### 🛰️ Specialized Interests
 - Scientific Machine Learning  
@@ -84,10 +102,15 @@
 
 ---
 
+## ✨ Quote I Live By
+
+> "It’s always the curious ones who see beyond limits — and end up changing the world"
+
+---
+
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/mitul-rishi-4791a2328/*
-- 📧 Email: *mitulrishi76@gmail.com*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/mitul-rishi-4791a2328/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitulrishi76@gmail.com)
 
 ---
 
@@ -98,11 +121,6 @@
 </p>
 
 ---
-
-## ✨ Quote I Live By
-
-> "It’s always the curious ones who see beyond limits — and end up changing the world"
-
 ---
 
 ⭐ **If you like my work, consider starring my repositories!**
