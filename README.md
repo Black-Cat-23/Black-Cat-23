@@ -115,7 +115,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Black-Cat-23&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://count.getloli.com/get/@Black-Cat-23?theme=rule34" />
 </p>
 
 ---
